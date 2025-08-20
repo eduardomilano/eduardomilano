@@ -1,7 +1,7 @@
 
 
 <!-- ====== HEADER ====== -->
-<h1 align="center"> Hello world👋, eu sou o <strong> Eduardo Milano</strong></h1>
+<h1 align="center"> Hello world👋, eu sou o <strong> Eduardo</strong></h1>
 <p align="center">💻 Desenvolvedor Front-End • 🎨 Interfaces modernas, responsivas e acessíveis</p>
 
 <!-- ====== BADGES ====== -->
