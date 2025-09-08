@@ -24,12 +24,12 @@
 
 <!-- ====== PROJETOS ====== -->
 
-<h3>Projetos</h3>
+<!-- <h3>Projetos</h3> 
 <ul>
   <!-- <li><a href="https://github.com/SEU_USUARIO/portfolio">Portfólio Pessoal</a></li> -->
-  <li><a href="https://eduardomilano.github.io/ProjetoGrill/">Loja Virtual (exemplo)</a></li>
+<!--  <li><a href="https://eduardomilano.github.io/ProjetoGrill/">Loja Virtual (exemplo)</a></li> 
   <!-- <li><a href="https://github.com/SEU_USUARIO/cronometro-js">Cronômetro com JS</a></li> -->
-</ul>
+<!-- </ul>
 
 
   <!-- ====== GITHUB STATS & CARDS (SUBSTITUA SEU_USUARIO) ====== -->
