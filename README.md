@@ -58,4 +58,4 @@
 </p>
 
 <!-- ====== FOOTER ====== -->
-<p align="center">🧩 Sempre aprendendo — <em>Front-end</em> com foco em interfaces humanas.</p>
+<p align="center"> — 🧩 Sempre aprendendo — 
