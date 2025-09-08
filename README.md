@@ -17,9 +17,9 @@
 <!-- ====== ABOUT / SHORT BIO ====== -->
 <h3>Sobre mim</h3>
 <ul>
-  <li>🌱 Estudando e aprimorando HTML, CSS, JavaScript e React</li>
-  <li>🎯 Foco em UX, performance e acessibilidade</li>
-  <li>🔭 Atualmente construindo: portfólio, componentes UI e PWA</li>
+  <li> Estudando e aprimorando HTML, CSS, JavaScript e Python</li>
+  <li> Foco em UX, performance e acessibilidade</li>
+  <li> Atualmente construindo: portfólio, componentes UI e PWA</li>
 </ul>
 
 <!-- ====== PROJETOS ====== -->
