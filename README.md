@@ -24,12 +24,12 @@
 
 <!-- ====== PROJETOS ====== -->
 
-<!-- <h3>Projetos</h3> 
+ <h3>Projetos</h3> 
 <ul>
   <!-- <li><a href="https://github.com/SEU_USUARIO/portfolio">Portfólio Pessoal</a></li> -->
-<!--  <li><a href="https://eduardomilano.github.io/ProjetoGrill/">Loja Virtual (exemplo)</a></li> 
+  <li><a href="https://eduardomilano.github.io/ProjetoGrill/">Loja Virtual</a></li> 
   <!-- <li><a href="https://github.com/SEU_USUARIO/cronometro-js">Cronômetro com JS</a></li> -->
-<!-- </ul>
+</ul>
 
 
   <!-- ====== GITHUB STATS & CARDS (SUBSTITUA SEU_USUARIO) ====== -->
@@ -37,9 +37,9 @@
     <!-- GitHub main stats -->
    <!-- <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_title=true&count_private=true" alt="GitHub Stats"/>-->
 
-   Top languages
+  <!-- Top languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_title=true" alt="Top Languages"/>
-  </p>
+  </p> -->
 
   <p align="center">
     <!-- Contribution streak -->
